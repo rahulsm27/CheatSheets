@@ -1,4 +1,6 @@
-A collection of important cheatsheats sourced from the internet
+## CHEATSHEETS
+
+A collection of good cheatsheets sourced from the internet
 
 1. Statistic (Probability distribution, Hypothesis testing, ANNOVA, Chi-square test)
 
